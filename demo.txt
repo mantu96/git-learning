@@ -1,2 +1,1 @@
-This is demo of git in branch1.
-we are changing in branch 1
+This is demo of git learning.
